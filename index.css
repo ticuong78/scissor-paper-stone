@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+main {
+  margin-top: 1rem;
+  margin-left: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 0.5rem;
+  cursor: pointer;
+}
+
+p {
+  margin-top: 1rem;
+  display: inline-block;
+}
+
+.plays {
+  margin-top: 1rem;
+}
+
+.score-board {
+  margin-top: 1rem;
+}
